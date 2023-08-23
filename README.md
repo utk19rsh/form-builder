@@ -1,6 +1,6 @@
-# form_builder
+# Form Builder
 
-A new Flutter project.
+A cross-platform application for generating a dynamically-interactive form extracted from a JSON file.
 
 ## Getting Started
 
